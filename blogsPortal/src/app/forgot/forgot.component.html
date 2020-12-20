@@ -1,0 +1,23 @@
+<br>
+<br>
+<br>
+<loader *ngIf="isLoading"></loader>
+<div class="container">
+    <div class="card-panel">
+        <form #post="ngForm" (ngSubmit)="onPut(post)" ngNativeValidate>
+            <h6> E-mail </h6>
+
+            <input type="email"  class="inp" style="color:black !important;" name="email" ngModel required>
+         
+            <div class="center">
+                <button type="submit" class="btn links"
+                    style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;">Send Reset Password Email
+                </button><br><br>
+                <h6 class="green-text">{{ msg }}</h6>
+                <h6 class="red-text">{{ errormsg }}</h6>
+            </div>
+        </form>
+       
+
+    </div>
+</div>

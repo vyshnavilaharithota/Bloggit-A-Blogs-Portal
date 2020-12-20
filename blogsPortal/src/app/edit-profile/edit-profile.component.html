@@ -1,0 +1,21 @@
+<br>
+<br>
+<br>
+<div class="container">
+    <br><br><br><br><br>
+    <div class="card-panel grey ">
+        <form #post="ngForm" (ngSubmit)="onPut(post)" ngNativeValidate>
+            <h6> Name </h6>
+
+            <input type="text" class="inp" style="color:black !important;" name="name" ngModel required>
+            <div class="center">
+                <button type="submit" class="btn links"
+                    style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;"><span>Edit Profile</span>
+                </button><br><br><br>
+            </div>
+        </form>
+        <a class="btn left" routerLink="/reset" style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;" >Reset Password</a>
+        <button class="btn right" style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;" (click)="onDelete()"><span>Delete Account</span></button>
+        <br>
+    </div>
+</div>

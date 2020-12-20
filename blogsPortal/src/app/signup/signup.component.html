@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="container">
+        <div class="container">
+            <div class="card-panel" style="background: rgba(100, 100, 100, 0);border-radius: 5%;">
+                <form #signUp="ngForm" (ngSubmit)="onSignUp(signUp)" ngNativeValidate>
+                    <span class="white-text">Name</span>
+                    <div class="input-field">
+                        <input id="name" name="name" type="text" class="inp" required ngModel>
+                        <span class="red-text">{{(errorObject && errorObject.name)?errorObject.name[0]:''}}</span>
+                    </div>
+                    <span class="white-text">Email</span>
+                    <div class="input-field">
+                        <input id="emailsign"  name="email" type="email" class="inp" required ngModel>
+                        <span class="red-text">{{(errorObject && errorObject.email)?errorObject.email[0]:''}}</span>
+                    </div>
+                    <span class="white-text">Password</span>
+                    <div class="input-field">
+                        <input id="passwordsign" name="password" type="password" class="inp" required ngModel>
+                        <span
+                            class="red-text">{{(errorObject && errorObject.password)?errorObject.password[0]:''}}</span>
+                    </div>
+                    <div class="center">
+                        <!-- <input type="submit" name="submit"> -->
+                        <button type="submit" class="btn black  links"
+                            style="text-transform: capitalize;border-radius: 5%;">Sign Up</button>
+                    </div>
+                </form>
+               
+            </div>
+        </div>
+    </div>
+</div>

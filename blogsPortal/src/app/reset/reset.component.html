@@ -1,0 +1,24 @@
+<br>
+<br>
+<br>
+<div class="container">
+    <br><br><br>
+    <div class="card-panel grey">
+       
+        <form #post="ngForm" (ngSubmit)="onPut(post)" ngNativeValidate>
+            <h6> Password </h6>
+
+            <input type="password" class="inp" style="color:black !important;" name="password" ngModel required>
+            <h6> Confirm Password </h6>
+
+            <input type="password" class="inp" style="color:black !important;" name="password_confirmation" ngModel required>
+            <div class="center">
+                <br>
+                <button type="submit" class="btn links"
+                    style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;">Reset Password
+                </button><br>
+            </div>
+            
+        </form>
+    </div>
+</div>

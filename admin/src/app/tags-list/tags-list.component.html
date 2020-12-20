@@ -1,0 +1,40 @@
+<br><br><br>
+<div class="container">
+    <div class="card-panel">
+
+        <form #Tags="ngForm" (ngSubmit)="createTag(Tags)">
+            <div class="input-field">
+                <input id="tags" type="text" name="tags" ngModel>
+                <label for="tags">Tag</label>
+            </div>
+            <input type="file" name="photo" accept='image/*' (change)="onFileChanged($event)" required ngModel><br><br>
+            <img [src]="imgURL" height="200" *ngIf="imgURL">
+            <div class="center">
+                <button class="btn " type="submit"> Add Tag</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="container">
+    <div class="card-panel">
+        <table class="striped highlight centered responsive">
+            <thead>
+                <tr>
+                    <th>Tag Id</th>
+                    <th>Tag Name</th>
+                    <th>Tag Image</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr *ngFor="let tag of tags">
+                    <td>{{tag.id}}</td>
+                    <td>{{tag.tags}}</td>
+                    <td><img src="{{ img }}public/images/{{tag.photo}}" style="width: 100px;height: 100px;"></td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

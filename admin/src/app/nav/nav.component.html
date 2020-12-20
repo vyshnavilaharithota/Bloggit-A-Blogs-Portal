@@ -1,0 +1,15 @@
+<nav>
+    <div class="nav-wrapper black">
+        <div class="container">
+            <!-- <a href="#" class=" ">Admin Portal</a> -->
+            <a href="#" class="brand-logo center"><img src="assets/logowhite.png" style="width: 48px;height: 55px;"></a>
+
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a routerLink="/allusers" class="hoverable" *ngIf="loginMode()">Users List</a></li>
+                <li><a routerLink="/alltags" class="hoverable" *ngIf="loginMode()">Update Tags</a></li>
+                <li><a (click)="logoutMode()" class="hoverable" *ngIf="loginMode()">Logout</a></li>
+            </ul>
+            
+        </div>
+    </div>
+</nav>

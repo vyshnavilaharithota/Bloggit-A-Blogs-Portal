@@ -1,0 +1,115 @@
+<loader *ngIf="isLoading"></loader>
+<div style="background-color: rgba(0, 25, 53);height: auto !important;">
+
+
+
+    <br><br>
+    <!-- <a class="btn floating " routerLink="/chat">Chat</a> <br><br> -->
+    <div class="fixed-action-btn">
+        <a class="btn-floating btn-large pulse" routerLink="/chat"
+            style="background-color: rgb(62, 63, 65) !important;">
+            <i class="fa fa-comments" aria-hidden="true"></i>
+        </a>
+    </div>
+    <!-- <a href="#" 
+    onclick="
+      window.open(
+        'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('google.com'), 
+        'facebook-share-dialog', 
+        'width=626,height=436'); 
+      return false;">
+    Share on Facebook
+  </a> -->
+
+    <div class="row">
+        <div class="col m1"></div>
+        <div class="col m2 s12" style="margin-right: 10px;">
+
+            <div class="card-panel grey-text text-darken-1 "
+                style="position: fixed;width: inherit;background-color: rgba(1, 31, 66, 0.802);">
+                <span class="grey-text  ">Categories</span>
+                <hr />
+                <ul>
+                    <li *ngFor="let tag of tagsFinal">
+                        <a class="grey-text text-darken-1 link" routerLink="/tag/{{ tag.tags }}"><img
+                                style="width: 15px;height: 15px;"
+                                src="{{ urlPath }}public/images/{{ tag.photo }}">&nbsp;{{tag.tags}}</a>
+                                <br><br>
+                    </li>
+                </ul>
+            </div>
+
+
+        </div>
+
+        <div class="col m5 s12">
+
+            <input type="search" [(ngModel)]="name" (input)="filterItem(name)" class=" inp"
+                style="width: 100% !important;" placeholder="Search Blogs...">
+
+            <div class="row " *ngFor="let blog of filteredItems">
+                <div class="col  s12">
+                    <div class="card">
+                        <app-blog [options]="blog"></app-blog>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col m3 s12">
+            <div class="card-panel grey-text "
+                style="position:fixed;width:inherit;background-color: rgba(1, 31, 66, 0.802);">
+                <div>
+                    <div class="center">
+                        <span class="grey-text">Recommended Blogs</span>
+                        <hr>
+                    </div>
+                    <!-- <hr /> -->
+                    <ul>
+                        <li *ngFor="let blog of blogscopy">
+                            <br><img src="{{ urlPath }}public/images/{{blog.photo }}"
+                                style="width:15px;height: 15px;">&nbsp;
+                            <a routerLink="/blog/{{ blog.id }}" class="grey-text text-darken-1 link ">
+                                {{blog.title}}</a>
+                            <!-- <hr> -->
+                        </li>
+                    </ul>
+                    <hr />
+                </div>
+                <div class="center">
+                    <span class="grey-text">Sort by</span>
+                </div>
+
+                <p>
+                    <label>
+                        <input type="checkbox" name="sortTitle" [(ngModel)]="checkSort" (ngModelChange)="sort()" />
+                        <span style="font-size: small;" class="grey-text">Title</span>
+                    </label>
+                </p>
+
+
+                <p>
+                    <label>
+                        <input type="checkbox" name="showStart" [(ngModel)]="checkStart"
+                            (ngModelChange)="sortStart()" />
+                        <span style="font-size: small;" class="grey-text">Time</span>
+                    </label>
+                </p>
+
+                <span style="font-size: small;" class="grey-text">Date</span>
+                <input type="date" [(ngModel)]="filterDate" (ngModelChange)="filterItemByDate()"
+                    style="font-size: small;" class="grey-text">
+                <br>
+                <br>
+
+
+            </div>
+
+
+        </div>
+        <div class="col m1"></div>
+
+    </div>
+
+
+</div>

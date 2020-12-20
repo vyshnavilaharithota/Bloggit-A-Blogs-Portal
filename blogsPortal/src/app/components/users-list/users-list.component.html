@@ -1,0 +1,8 @@
+<div  id="listContainer" style="height: 70vh;overflow-y: scroll;">
+  <ul class="collection" *ngIf="usersList.length">
+    <li class="collection-item" *ngFor="let user of usersList"  [class.active]="user.isCurrent"
+      (dblclick)="selectUser(user)" title="Click twice to select">
+      {{ user.name }}
+    </li>
+  </ul>
+</div>

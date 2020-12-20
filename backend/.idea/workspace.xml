@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66c41d02-3227-45c3-a5da-a6c00a0677d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../ABSTRACT 018,024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/admin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/commandlinetools/Laravel_09_09_20__10_53_PM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/BlogController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/ChangePasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Controllers/TagsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/CORS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Requests/ChangePasswordRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Http/Requests/SignUpRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Mail/ResetPasswordMail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/Tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/jwt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/migrations/2020_10_26_145501_create_blogs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/migrations/2020_12_07_165523_create_tags_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/11bird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/11pexels-anna-shvets-4588065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/11travel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/12healthcare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/147-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/1578274-cyber-crime-120116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/1download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/1download1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/1pexels-daria-shevtsova-789786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/1photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/2pexels-anna-shvets-4588065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/2pexels-tobias-bjørkli-2113566.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/2wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/347-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/3pexels-nandhu-kumar-450441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/3photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/447-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/47-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/4photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/7animal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/7food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/7lifestyle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/7nature.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/7technology.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/animal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/bird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/lou-brassard-vuNTWzg4zdo-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/public/images/luke-chesser-pJadQetzTkI-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/Email/passwordReset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/backend/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/all-blogs/all-blogs.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/all-blogs/all-blogs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/all-blogs/all-blogs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/all-blogs/all-blogs.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog/blog.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog/blog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog/blog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog/blog.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog1/blog1.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog1/blog1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/blog1/blog1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-app/chat-app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-app/chat-app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-app/chat-app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-app/chat-app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-input/chat-input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-input/chat-input.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-input/chat-input.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-input/chat-input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-window/chat-window.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-window/chat-window.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-window/chat-window.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/chat-window/chat-window.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/message/message.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/message/message.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/message/message.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/message/message.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/users-list/users-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/users-list/users-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/users-list/users-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/components/users-list/users-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit-profile/edit-profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit-profile/edit-profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit-profile/edit-profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit/edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit/edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit/edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/edit/edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot-password/forgot-password.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot-password/forgot-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot-password/forgot-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot/forgot.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot/forgot.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot/forgot.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/forgot/forgot.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/loader/loader.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/loader/loader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/loader/loader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/login/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/login/login.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/nav/nav.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/nav/nav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/nav/nav.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/nav/nav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/post/post.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/post/post.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/post/post.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/post/post.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/profile/profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/profile/profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/profile/profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/profile/profile.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/read/read.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/read/read.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/read/read.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/read/read.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/reset/reset.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/reset/reset.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/reset/reset.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/search/search.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/search/search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/search/search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/search/search.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/signup/signup.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/signup/signup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/signup/signup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/signup/signup.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-select/tag-select.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-select/tag-select.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-select/tag-select.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-select/tag-select.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-view/tag-view.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-view/tag-view.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-view/tag-view.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/app/tag-view/tag.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/child.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/drops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/drops1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/drops2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/animal.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/bird.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/food.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/healthcare.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/human.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/lifestyle.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/nature.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/technology.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/icons/travel.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/lifestyle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/logowhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/navbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/images/rabbit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/assets/interfaces/shared.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/blogsPortal/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit lily/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/022,024,061_facemaskdetector.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/New WinRAR ZIP archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/bloggit final.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/bloggit pre final.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/bloggit with some final touches.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/bloggit without updates.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-app/chat-app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-app/chat-app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-app/chat-app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-app/chat-app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-input/chat-input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-input/chat-input.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-input/chat-input.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-input/chat-input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-name-popup/chat-name-popup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-name-popup/chat-name-popup.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-name-popup/chat-name-popup.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-name-popup/chat-name-popup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-name-popup/chat-name-popup.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-window/chat-window.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-window/chat-window.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-window/chat-window.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/chat-window/chat-window.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/message/message.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/message/message.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/message/message.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/message/message.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/users-list/users-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/users-list/users-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/users-list/users-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/app/components/users-list/users-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/assets/interfaces/shared.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/assets/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/chat-master/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/final touch ups.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/bloggit project files/server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/commandlinetools/Laravel_09_09_20__10_53_PM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/BlogController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/ChangePasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Controllers/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/CORS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Requests/ChangePasswordRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Http/Requests/SignUpRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Mail/ResetPasswordMail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/jwt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/migrations/2020_10_26_145501_create_blogs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/1047-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/11photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/147-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/1578274-cyber-crime-120116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/1download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/1download1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/1pexels-daria-shevtsova-789786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/1photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/2pexels-anna-shvets-4588065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/2pexels-tobias-bjørkli-2113566.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/2wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/347-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/3pexels-nandhu-kumar-450441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/3photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/447-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/public/images/4photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/Email/passwordReset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/backend/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/all-blogs/all-blogs.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/all-blogs/all-blogs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/all-blogs/all-blogs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/all-blogs/all-blogs.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog/blog.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog/blog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog/blog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog/blog.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog1/blog1.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog1/blog1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/blog1/blog1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-app/chat-app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-app/chat-app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-app/chat-app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-app/chat-app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-input/chat-input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-input/chat-input.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-input/chat-input.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-input/chat-input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-window/chat-window.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-window/chat-window.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-window/chat-window.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/chat-window/chat-window.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/message/message.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/message/message.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/message/message.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/message/message.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/users-list/users-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/users-list/users-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/users-list/users-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/components/users-list/users-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit-profile/edit-profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit-profile/edit-profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit-profile/edit-profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit/edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit/edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit/edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/edit/edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot-password/forgot-password.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot-password/forgot-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot-password/forgot-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot/forgot.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot/forgot.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot/forgot.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/forgot/forgot.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/loader/loader.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/loader/loader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/loader/loader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/login/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/login/login.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/nav/nav.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/nav/nav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/nav/nav.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/nav/nav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/post/post.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/post/post.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/post/post.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/post/post.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/profile/profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/profile/profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/profile/profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/profile/profile.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/read/read.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/read/read.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/read/read.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/read/read.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/reset/reset.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/reset/reset.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/reset/reset.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/search/search.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/search/search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/search/search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/search/search.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/signup/signup.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/signup/signup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/signup/signup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/signup/signup.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-select/tag-select.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-select/tag-select.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-select/tag-select.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-select/tag-select.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-view/tag-view.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-view/tag-view.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-view/tag-view.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/app/tag-view/tag.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/child.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/drops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/drops1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/drops2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/animal.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/bird.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/food.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/healthcare.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/human.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/lifestyle.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/nature.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/technology.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/icons/travel.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/lifestyle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/logowhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/navbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/images/rabbit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/assets/interfaces/shared.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/blogsPortal/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/commandlinetools/Laravel_09_09_20__10_53_PM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/BlogController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/ChangePasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Controllers/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/CORS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Requests/ChangePasswordRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Http/Requests/SignUpRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Mail/ResetPasswordMail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/jwt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/migrations/2020_10_26_145501_create_blogs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/11bird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/11pexels-anna-shvets-4588065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/11travel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/12healthcare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/147-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/1578274-cyber-crime-120116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/1download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/1download1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/1pexels-daria-shevtsova-789786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/1photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/2pexels-anna-shvets-4588065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/2pexels-tobias-bjørkli-2113566.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/2wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/347-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/3pexels-nandhu-kumar-450441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/3photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/447-473124_airplane-wallpaper-4k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/4photo-1579750481098-8b3a62c9b85d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/7animal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/7food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/7lifestyle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/7nature.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/public/images/7technology.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/Email/passwordReset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/backend/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/all-blogs/all-blogs.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/all-blogs/all-blogs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/all-blogs/all-blogs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/all-blogs/all-blogs.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog/blog.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog/blog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog/blog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog/blog.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog1/blog1.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog1/blog1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/blog1/blog1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-app/chat-app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-app/chat-app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-app/chat-app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-app/chat-app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-input/chat-input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-input/chat-input.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-input/chat-input.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-input/chat-input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-name-popup/chat-name-popup.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-window/chat-window.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-window/chat-window.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-window/chat-window.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/chat-window/chat-window.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/message/message.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/message/message.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/message/message.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/message/message.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/users-list/users-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/users-list/users-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/users-list/users-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/components/users-list/users-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit-profile/edit-profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit-profile/edit-profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit-profile/edit-profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit/edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit/edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit/edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/edit/edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot-password/forgot-password.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot-password/forgot-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot-password/forgot-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot/forgot.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot/forgot.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot/forgot.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/forgot/forgot.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/loader/loader.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/loader/loader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/loader/loader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/login/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/login/login.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/nav/nav.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/nav/nav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/nav/nav.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/nav/nav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/post/post.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/post/post.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/post/post.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/post/post.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/profile/profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/profile/profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/profile/profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/profile/profile.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/read/read.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/read/read.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/read/read.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/read/read.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/reset/reset.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/reset/reset.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/reset/reset.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/search/search.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/search/search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/search/search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/search/search.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/signup/signup.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/signup/signup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/signup/signup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/signup/signup.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-select/tag-select.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-select/tag-select.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-select/tag-select.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-select/tag-select.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-view/tag-view.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-view/tag-view.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-view/tag-view.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/app/tag-view/tag.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/child.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/drops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/drops1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/drops2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/animal.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/bird.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/food.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/healthcare.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/human.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/lifestyle.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/nature.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/technology.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/icons/travel.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/lifestyle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/logowhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/navbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/images/rabbit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/assets/interfaces/shared.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/blogsPortal/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bloggit/proj1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cc5769b9fb7c4c088876fbe477452a44e1c36a4d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/main-nav/main-nav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/main-nav/main-nav.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/main-nav/main-nav.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/app/main-nav/main-nav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tp/admin/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hHduyfMPlzvIwYQFh3JCyopSta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66c41d02-3227-45c3-a5da-a6c00a0677d3" name="Default Changelist" comment="" />
+      <created>1599672179053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599672179053</updated>
+      <workItem from="1599672180405" duration="3317000" />
+      <workItem from="1601366764375" duration="2507000" />
+      <workItem from="1604758746250" duration="4299000" />
+      <workItem from="1604997477141" duration="645000" />
+      <workItem from="1605443203039" duration="8640000" />
+      <workItem from="1605481875207" duration="4838000" />
+      <workItem from="1605606688780" duration="1218000" />
+      <workItem from="1605707917167" duration="51000" />
+      <workItem from="1606192657912" duration="3911000" />
+      <workItem from="1606585491569" duration="9032000" />
+      <workItem from="1606639950599" duration="5656000" />
+      <workItem from="1606670756102" duration="1995000" />
+      <workItem from="1606715577235" duration="20407000" />
+      <workItem from="1606759432729" duration="630000" />
+      <workItem from="1606805891367" duration="736000" />
+      <workItem from="1606812596897" duration="1210000" />
+      <workItem from="1606830573694" duration="613000" />
+      <workItem from="1606912067493" duration="24000" />
+      <workItem from="1607376074895" duration="2131000" />
+      <workItem from="1607436891298" duration="609000" />
+      <workItem from="1607583797790" duration="213000" />
+      <workItem from="1607792122548" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1604758923169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604758923169" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607584010194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607584010194" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601372193601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601372193601" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601372193601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601372193601" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601372193601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601372193601" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601372193601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601372193601" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1599672753593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599672753593" />
+  </component>
+</project>

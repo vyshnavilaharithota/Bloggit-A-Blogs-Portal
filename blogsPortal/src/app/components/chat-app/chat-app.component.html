@@ -1,0 +1,26 @@
+<br>
+<div class="center">
+  <h4 class="white-text">Anonymous chat... 😜</h4>
+</div>
+<div style="background-color: rgba(0, 25, 53);height: auto !important;">
+  <section *ngIf="!currentUser">
+    <div class="container">
+      <chat-name-popup (onUserNameChange)="handleName($event)"></chat-name-popup>
+    </div>
+  </section>
+  <section *ngIf="currentUser" class="container">
+    <div class="row">
+      <div class="col m3">
+        <users-list [usersList]="usersList" (onUserSelect)="handleUserSelect($event)"></users-list>
+      </div>
+      <div class="col m9">
+        <chat-window [selectedUser]="selectedUser" [messages]="messages" (onMessage)="handleMessage($event)">
+        </chat-window>
+      </div>
+
+    </div>
+
+
+
+  </section>
+</div>

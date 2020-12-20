@@ -1,0 +1,9 @@
+<div id="msgContainer" style="height:60vh;overflow-y: scroll;" class="scrollbar">
+  <ul class="collection ">
+    <li class="collection-item" *ngFor="let message of messages">
+      <app-message [message]="message"></app-message>
+    </li>
+  </ul>
+</div>
+
+<chat-input (onMessage)="handleMessage($event)" [selectedUser]="selectedUser"></chat-input>

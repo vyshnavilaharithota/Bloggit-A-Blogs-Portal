@@ -1,0 +1,17 @@
+<div class="card">
+  <div class="card-image waves-effect waves-block waves-light">
+    <img class="activator" src="{{ urlPath }}public/images/{{options.photo }}"
+      style="width:100%;height:300px;">
+  </div>
+  <div class="card-content">
+    <span class=" activator grey-text text-darken-4">{{ options.title }}</span>
+    <a (click)="onDelete()" class="right"><i class="fa fa-trash" style="font-size: larger;" aria-hidden="true"></i></a>
+    <a (click)="onEdit()" class="right"><i class="fa fa-pencil-square-o" style="font-size: larger;"
+        aria-hidden="true"></i>&nbsp;&nbsp;</a>
+  </div>
+  <div class="card-reveal">
+
+    <span class="card-title grey-text text-darken-4">{{options.title}}</span>
+    <div [innerHTML]=options.body></div>
+  </div>
+</div>

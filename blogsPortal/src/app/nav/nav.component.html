@@ -1,0 +1,25 @@
+<div class="navbar-fixed">
+  <nav style="height:80px;padding: 10px 10px 10px 15px;" [class.nav1]=!isloggedin() [class.nav2]=isloggedin()>
+    <div class="nav-wrapper">
+      <a href="#!" class="brand-logo"><img src="assets/images/logowhite.png" style="width: 50px;height:60px"></a>
+      <ul class="right hide-on-med-and-down">
+        <!-- <li><a class="white-text  modal-trigger links" data-target="modal3"><i style="font-size: large;"
+              class="fa fa-search" aria-hidden="true"></i></a></li> -->
+        <li><a class="white-text links" *ngIf=isloggedin() (click)=profile()><i class="fa fa-user-o" aria-hidden="true"
+              style="font-weight: 800;font-size: large;"></i></a></li>
+        <li><a class="white-text links" *ngIf=isloggedin() (click)="this.route.navigateByUrl('');"><i class="fa fa-home" aria-hidden="true"
+              style="font-weight: 800;font-size: large;"></i></a></li>
+        <!-- <li><a class="white-text links" *ngIf=getprofinit() (click)=profile() ><i class="fa fa-user-o" aria-hidden="true"
+                style="font-weight: 800;font-size: large;"></i></a></li> -->
+        <li><a class="white-text links" href="#login" *ngIf=!isloggedin()>Sign In</a></li>
+        <li><a class="white-text links" href="#signup" *ngIf=!isloggedin()>Sign Up</a></li>
+        <li><a class="white-text links" (click)=logout() *ngIf=isloggedin()>Sign Out</a></li>
+      </ul>
+      <a class="white-text links modal-trigger right hide-on-large-only" data-target="modal3"><i
+          style="padding-right: 10px;" class="fa fa-search" aria-hidden="true"></i></a>
+    </div>
+  </nav>
+</div>
+<!-- <div class="modal search" id="modal3" style="max-height: 650px;">
+  <app-search  ></app-search>
+</div> -->

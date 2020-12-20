@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="container">
+        <div class="container">
+            <div class="card-panel" style="background: rgba(100, 100, 100, 0);border-radius: 5%;">
+                <div class="red-text center">{{ error }}</div><br>
+                <form #login="ngForm" (ngSubmit)="onLogin(login)" ngNativeValidate> 
+                    
+                    <span class="white-text">Email</span>
+                    <div class="input-field">
+                        <input id="email" type="email" class="inp" name="email" required ngModel>
+                    </div>
+                    <span class="white-text">Password</span>
+                    <div class="input-field">
+                        <input id="password" type="password" class="inp" name="password" required ngModel>
+                    </div>
+                    <br>
+                    <div class="center">
+                        <button type="submit" class="btn links"
+                            style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;">Sign
+                            In</button><br><br>
+                            <a  routerLink="/forgot" class=" white-text">Forgot Password?</a>
+                    </div>
+                </form>
+               
+            </div>
+        </div>
+    </div>
+</div>
+<!-- <div class="card-panel">
+    <form action="">
+
+        <input>
+        <input>
+    </form>
+</div> -->

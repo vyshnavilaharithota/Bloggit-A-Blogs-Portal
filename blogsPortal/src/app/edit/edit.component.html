@@ -1,0 +1,39 @@
+<br>
+<br>
+<br>
+<div class="container">
+    <div class="card-panel">
+        <form #post="ngForm" (ngSubmit)="onPut(post)" ngNativeValidate>
+            <h6> Title </h6>
+
+            <input type="text" class="inp" style="color:black !important;" name="title" [(ngModel)]=blog.title required>
+
+            <br><br>
+            <h6>Choose a tag</h6>
+            <div class="input-field">
+                <select class="icons" [(ngModel)]=blog.tag name="tag" required>
+                    <option Value="" disabled>Choose your option</option>
+                    <option *ngFor="let tag of tags" [ngValue]="tag.tags"
+                        data-icon="localhost:8000/public/images/{{ tag.photo }}" class="left">{{ tag.tags }}
+                    </option>
+
+
+                </select>
+            </div>
+            <br><br>
+            <ckeditor [editor]="Editor" [config]="
+        { toolbar: 
+            [ 'heading', '|', 'bold', 'italic', 'insertTable' ] }" name="body" [(ngModel)]="blog.body"
+                [config]="{  toolbar: [ 'heading', '|', 'bold', 'italic',  'bulletedList', 'numberedList', 'blockQuote' ]}">
+            </ckeditor>
+            <br>
+            
+
+            <div class="center">
+                <button type="submit" class="btn links"
+                    style="text-transform: capitalize;border-radius: 5%;background-color: #1E3C72;">Edit Blog
+                </button><br><br>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+<div class="container">
+    <br><br>
+<div class="card-panel">
+    <h5>{{blog.title}}</h5><br>
+    <div [innerHTML]=blog.body></div>
+    <br>
+    <i class="fa fa-thumbs-o-up orange-text text-lighten-2" style="font-size: x-large;"
+    aria-hidden="true"><span>{{blog.likes}}</span></i>
+    <a onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('google.com'), 
+      'facebook-share-dialog', 
+      'width=626,height=436'); 
+    return false;"><i class="fa fa-share-square-o orange-text text-lighten-2  right" style="font-size: x-large;"
+    aria-hidden="true"></i></a>
+<!-- <i class="fa fa-comments-o orange-text text-lighten-2 right" style="font-size: x-large;" aria-hidden="true"></i> -->
+</div>
+<a routerLink="/" style="font-size: x-large;" class="grey-text"><i class="fa fa-reply" aria-hidden="true"></i>&nbsp;&nbsp;Back to All Blogs...</a>
+<!-- <button (click)= "getNextBlogbyid()" class="btn"  ><i class="fa fa-reply" aria-hidden="true"></i>&nbsp;&nbsp;Next blog</button> -->
+<!-- <button (click)= "getPreviousBlogbyid()" class="btn"><i class="fa fa-reply" aria-hidden="true"></i>Prev blog</button> -->
+</div>

@@ -1,0 +1,28 @@
+<loader *ngIf="isLoading"></loader>
+<br><br>
+
+
+<div style="background-color: rgba(0, 25, 53);height: auto !important;">
+    <div class="container" style="margin-top: -3px;">
+        <br>
+        
+        <h5 class="white-text">Welcome {{ Name }} :)&nbsp;&nbsp; <button class="btn-floating" (click)="onEdit()" style="background-color: rgb(62, 63, 65) !important;height: 50px;width: 50px;"><i class="fa fa-pencil" aria-hidden="true"></i></button></h5>
+       
+        <a class="btn" style="text-transform: capitalize;background-color: rgb(62, 63, 65) !important;" routerLink="/tagselect">Up for Genre Selection?&nbsp; <i class="fa fa-tags" aria-hidden="true"></i></a>
+        <br><br>
+        <div class="row" >
+
+            <div class="col m4 s12" *ngFor="let blog of blogs"> <!-- *ngFor="let blog of blogs"> -->
+                <div class="card">
+                    <app-blog1 [options]="blog"></app-blog1>
+                </div>
+            </div>
+        </div>
+       
+        <div class="fixed-action-btn" >
+            <a class="btn-floating btn-large pulse" routerLink="/post" style="background-color: rgb(62, 63, 65) !important;">
+                <i class="fa fa-plus" aria-hidden="true"></i>
+            </a>
+        </div>
+    </div>
+</div>

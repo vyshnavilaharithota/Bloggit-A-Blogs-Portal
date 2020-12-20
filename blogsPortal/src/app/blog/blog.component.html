@@ -1,0 +1,56 @@
+<!-- <div class="card"> -->
+<div class="card-content">
+    <p class="left">
+        {{uname}}
+        <!-- &nbsp;&nbsp;<a href="#">Follow</a> -->
+    </p>
+    <div class="chip right blue-text" >
+      <!-- <img src="images/yuna.jpg" > -->
+      {{options.tag}}
+    </div>
+</div>
+<a class="modal-trigger" [attr.href]="link">
+<div class="card-image">
+    <img src="http://localhost:8000/public/images/{{options.photo }}">
+    
+</div>
+<div class="card-content black-text" style="text-overflow: ellipsis !important;" [innerHTML]="options.title">
+</div>
+
+</a>
+<div class="card-action">
+    <!-- <i class="fa fa-arrow-up  orange-text text-lighten-2" style="font-size: x-large;" aria-hidden="true"></i>&nbsp;&nbsp; -->
+    <button class="btn white" (click)="onLike()" ><i class="fa fa-thumbs-o-up  text-lighten-2" [class.liked]="isLiked" [class.unliked]="!isLiked" style="font-size: x-large;" 
+        aria-hidden="true"><span>{{options.likes}}</span></i></button>
+    <a href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('google.com'), 
+      'facebook-share-dialog', 
+      'width=626,height=436'); 
+    return false;"><i class="fa fa-share-square-o orange-text text-lighten-2  right" style="font-size: x-large;"
+        aria-hidden="true"></i></a>
+    <!-- <i class="fa fa-comments-o orange-text text-lighten-2 right" style="font-size: x-large;" aria-hidden="true"></i> -->
+    <br><br>
+    <!-- <div> -->
+    <a style="text-transform: capitalize;font-size: large;" class="left grey-text text-darken-2">{{options.created_at | date:'M/d/yy, h:mm a'}}</a>
+  <a (click)="onRead(options.id);" style="text-transform: capitalize;font-size: large;cursor: pointer;" class="right grey-text text-darken-2" >Read Blog</a>
+    <!-- </div> -->
+    
+</div>
+<!-- </div> -->
+
+<!-- <a class="waves-effect waves-light btn modal-trigger" [attr.href]="link" >Modal</a> -->
+
+  <!-- Modal Structure -->
+  <div id="{{options.id}}" class="modal">
+    <div class="modal-content">
+      <h4>{{ options.title }}</h4>
+      <div [innerHTML]=options.body>
+        </div>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Close</a>
+    </div>
+  </div>
+        
+<br>
