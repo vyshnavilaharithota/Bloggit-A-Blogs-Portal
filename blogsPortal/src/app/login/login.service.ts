@@ -17,44 +17,52 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class LoginService {
+  loader:boolean = false;
   isLoggedIn = false;
   error = null;
-  
+
   constructor(private http: HttpClient, private route: Router) { }
   onLogin(form: NgForm) {
-    this.http.post(environment.baseUrl+'api/login', form.value).subscribe(res => {
+    this.loader= true;
+    this.http.post(environment.baseUrl + 'api/login', form.value).subscribe(res => {
+      
       console.log(res);
       // localStorage.setItem
       this.error = {};
       this.isLoggedIn = true;
-      
-      localStorage.setItem('res',JSON.stringify(res));
+
+      localStorage.setItem('res', JSON.stringify(res));
+      this.loader =false;
       this.route.navigateByUrl('/userhome');
     },
       err => {
+        this.loader=false;
         console.log(err);
         this.isLoggedIn = false;
         this.error = err.error.error;
       });
+  }
+
+  loginMode() {
+    if (localStorage.getItem('res'))
+      return true;
+    else
+      return false;
+  }
+  logoutMode() {
+   
+    this.http.post(environment.baseUrl + 'api/logout',{}).subscribe(res=>{
+      console.log(res);
+    },err=>{
+      console.error(err);
+    })
+    localStorage.clear();
+    this.route.navigateByUrl('/home');
+  }
+  onprofile() {
+    if (!this.loginMode()) {
+      return;
     }
-    loginMode()
-    {
-      if (localStorage.getItem('res'))
-        return true;
-      else
-        return false;
-    }
-    logoutMode()
-    {
-      localStorage.clear();
-      this.route.navigateByUrl('/home');
-    }
-    onprofile()
-    {
-      if(!this.loginMode())
-      {
-        return;        
-      }
-      this.route.navigateByUrl('/profile');
-    }
+    this.route.navigateByUrl('/profile');
+  }
 } 

@@ -31,7 +31,7 @@ class TagsController extends Controller
 
         return response()->json($tags, 201);
     }
-    c
+    
     public function update(Request $request, $id)
     {
         $tags = Tags::findOrFail($id);

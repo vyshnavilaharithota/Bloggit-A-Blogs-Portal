@@ -10,7 +10,7 @@
                     </div>
                     <span class="white-text">Email</span>
                     <div class="input-field">
-                        <input id="emailsign"  name="email" type="email" class="inp" required ngModel>
+                        <input id="emailsign" name="email" type="email" class="inp" required ngModel>
                         <span class="red-text">{{(errorObject && errorObject.email)?errorObject.email[0]:''}}</span>
                     </div>
                     <span class="white-text">Password</span>
@@ -25,7 +25,9 @@
                             style="text-transform: capitalize;border-radius: 5%;">Sign Up</button>
                     </div>
                 </form>
-               
+                <div class="progress" *ngIf="isLoading()">
+                    <div class="indeterminate"></div>
+                </div>
             </div>
         </div>
     </div>

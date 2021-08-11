@@ -11,7 +11,7 @@ export class TagsListService {
 
   createTag(tags:any)
   {
-     return this.http.post(environment.baseUrl+"api/tags/",tags);
+     return this.http.post(environment.baseUrl+"api/tags",tags);
   }
 
   getTags()

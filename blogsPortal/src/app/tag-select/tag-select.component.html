@@ -7,7 +7,7 @@
             <li *ngFor="let tag of tags">
                 <input type="checkbox" ngModel [name]="tag.tags" id="cb{{ tag.id }}" />
                 <label for="cb{{ tag.id }}" style="font-size: large;">
-                    <img style="width: 100px;height: 100px;" src="http://localhost:8000/public/images/{{tag.photo }}">
+                    <img style="width: 100px;height: 100px;" src="{{urlPath}}public/public/images/{{tag.photo }}">
                     <br>
                     {{ tag.tags }}
                 </label>

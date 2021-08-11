@@ -33,7 +33,7 @@
                     <li *ngFor="let tag of tagsFinal">
                         <a class="grey-text text-darken-1 link" routerLink="/tag/{{ tag.tags }}"><img
                                 style="width: 15px;height: 15px;"
-                                src="{{ urlPath }}public/images/{{ tag.photo }}">&nbsp;{{tag.tags}}</a>
+                                src="{{ urlPath }}public/public/images/{{ tag.photo }}">&nbsp;{{tag.tags}}</a>
                                 <br><br>
                     </li>
                 </ul>
@@ -67,7 +67,7 @@
                     <!-- <hr /> -->
                     <ul>
                         <li *ngFor="let blog of blogscopy">
-                            <br><img src="{{ urlPath }}public/images/{{blog.photo }}"
+                            <br><img src="{{ urlPath }}public/public/images/{{blog.photo }}"
                                 style="width:15px;height: 15px;">&nbsp;
                             <a routerLink="/blog/{{ blog.id }}" class="grey-text text-darken-1 link ">
                                 {{blog.title}}</a>

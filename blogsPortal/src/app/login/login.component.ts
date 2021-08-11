@@ -9,8 +9,10 @@ import { Router } from '@angular/router';
   styleUrls: ['./login.component.css']
 })
 export class LoginComponent implements OnInit {
+  
   error=null;
   constructor(private loginService:LoginService,private route:Router) { 
+    
   }
 
   ngOnInit(): void {
@@ -18,8 +20,14 @@ export class LoginComponent implements OnInit {
   }
   onLogin(login:NgForm)
   {
+   
     this.loginService.onLogin(login);
     this.error=this.loginService.error;
+    
   }
+  isLoading(){
+    return this.loginService.loader;
+  }
+  
   
 }

@@ -2,6 +2,7 @@ import { Component, OnInit, Input } from '@angular/core';
 import * as M from 'materialize-css/dist/js/materialize.min';
 import { NavigationEnd, Router } from '@angular/router';
 import { BlogService } from './blog.service';
+import { environment } from 'src/environments/environment';
 
 @Component({
   selector: 'app-blog',
@@ -9,13 +10,15 @@ import { BlogService } from './blog.service';
   styleUrls: ['./blog.component.css']
 })
 export class BlogComponent implements OnInit {
+  loader:boolean;
+  urlPath: String= environment.baseUrl;
 
   @Input() options: any;
   link: string;
   uname: string;
   isLiked: boolean;
   constructor(private router: Router, private bs: BlogService) {
-
+    this.loader= true;
   }
 
   ngOnInit(): void {
@@ -57,5 +60,9 @@ export class BlogComponent implements OnInit {
         console.log(err);
       });
     }
+  }
+
+  onLoad(){
+    this.loader = false;
   }
 }

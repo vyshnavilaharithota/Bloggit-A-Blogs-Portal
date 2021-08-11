@@ -17,21 +17,28 @@ interface SignUpFormErrorModel {
   providedIn: 'root'
 })
 export class SignupService {
+  loader: boolean ;
   errorObject: SignUpFormErrorModel = {};
-  constructor(private http: HttpClient, private route: Router) { }
+  constructor(private http: HttpClient, private route: Router) { 
+    this.loader= false;
+  }
 
   onSignUp(form: NgForm) {
+    this.loader= true;
     this.http.post(environment.baseUrl+'api/signup', form.value).subscribe(res => {
+      
       console.log(res);
       localStorage.setItem('res', JSON.stringify(res));
       this.errorObject = {};
       this.route.navigateByUrl('/tagselect');
+      this.loader= false;
     },
       err => {
         console.log(err);
         if (err && err.error && err.error.errors) {
           this.errorObject = err.error.errors;
         }
+        this.loader= false;
       });
   }
 

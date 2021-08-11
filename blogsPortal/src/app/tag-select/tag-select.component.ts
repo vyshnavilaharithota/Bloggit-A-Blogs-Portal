@@ -11,6 +11,7 @@ import { environment } from 'src/environments/environment';
   styleUrls: ['./tag-select.component.css']
 })
 export class TagSelectComponent implements OnInit {
+  urlPath: String= environment.baseUrl;
   tags:any;
 
   r = JSON.parse(localStorage.getItem('res'));

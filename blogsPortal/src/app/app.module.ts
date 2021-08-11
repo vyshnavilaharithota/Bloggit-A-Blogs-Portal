@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { ReactiveFormsModule } from "@angular/forms";
-import {EditorModule} from 'primeng/editor';
+import { EditorModule } from 'primeng/editor';
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,7 +11,7 @@ import { SignupComponent } from './signup/signup.component';
 import { SearchComponent } from './search/search.component';
 import { HomeComponent } from './home/home.component';
 import { AngularFullpageModule } from '@fullpage/angular-fullpage';
-import { HttpClientModule} from '@angular/common/http';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { AllBlogsComponent } from './all-blogs/all-blogs.component';
 import { BlogComponent } from './blog/blog.component';
@@ -36,6 +36,7 @@ import { ChatInputComponent } from "./components/chat-input/chat-input.component
 
 import { SocketIoModule, SocketIoConfig } from "ngx-socket-io";
 import { ChatNamePopupComponent } from './components/chat-name-popup/chat-name-popup.component';
+import { TokenInterceptorService } from './token-interceptor.service';
 
 const config: SocketIoConfig = { url: "https://bloggit-chat.herokuapp.com/", options: {} };
 
@@ -78,10 +79,14 @@ const config: SocketIoConfig = { url: "https://bloggit-chat.herokuapp.com/", opt
     EditorModule,
     BrowserAnimationsModule,
     ReactiveFormsModule,
-    
+
     SocketIoModule.forRoot(config)
   ],
-  providers: [],
+  providers: [{
+    provide: HTTP_INTERCEPTORS,
+    useClass: TokenInterceptorService,
+    multi: true
+  }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
