@@ -9,8 +9,11 @@ Whether sharing your expertise, breaking news, or whatever’s on your mind, Blo
 **Technology Stack**
 
 Frontend : Angular 10
+
 Backend  : Laravel(PHP) REST
+
 Database : MySQL
+
 Chat Server: Node.js(Socket.io)
 
 **Conclusion**
